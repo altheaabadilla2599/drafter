@@ -589,7 +589,7 @@ svg {
     right: 0;
   } 
   to {
-    right: 1700px;
+    right: 1000px;
   } 
 }
 
@@ -607,7 +607,7 @@ svg {
     left: 0;
   } 
   to {
-    left: 1300px;
+    left: 1000px;
   } 
 }
 
